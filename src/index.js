@@ -252,7 +252,7 @@ console.log(!cat5=="meaw")
 // â€¢ Test whether an item is not in a array
 
 console.log("check","2"===2) //equality and inequality test
-const a="hello";
+const a="Hello";
 
 console.log(a===a.toLocaleLowerCase(), ) 
 
