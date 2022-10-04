@@ -19,7 +19,7 @@ let text = "Hello World!";
 let result = text.toUpperCase();
 console.log(result)
 // * TitleCase
-var string="I'm student. bscs. my favourt subject .internet Programing ";
+var string="I'm student of karachi university. my favourt subject Programing ";
 var n=string.split(".");
 var vfinal=""
 for(i=0;i<n.length;i++)
